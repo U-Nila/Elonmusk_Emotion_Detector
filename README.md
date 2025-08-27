@@ -1,5 +1,4 @@
-# Elonmusk_Emotion_Detector
-Emotion detector using ML Algorithms to find the emotions in twitter post
+
 # Elon Musk Tweet Sentiment Analysis 🚀  
 
 This project analyzes Elon Musk's tweets (2015–2020) using **Natural Language Processing (NLP)** techniques. It performs data cleaning, visualization, sentiment analysis, and machine learning classification. Finally, it provides an interactive **Gradio web app** to test sentiment predictions on new tweets.  
